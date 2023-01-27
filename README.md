@@ -10,6 +10,7 @@ Machinery is an asynchronous task queue/job queue based on distributed message p
 [![Travis Status for RichardKnop/machinery](https://travis-ci.org/RichardKnop/machinery.svg?branch=master&label=linux+build)](https://travis-ci.org/RichardKnop/machinery)
 [![godoc for RichardKnop/machinery](https://godoc.org/github.com/nathany/looper?status.svg)](http://godoc.org/github.com/RichardKnop/machinery/v1)
 [![codecov for RichardKnop/machinery](https://codecov.io/gh/RichardKnop/machinery/branch/master/graph/badge.svg)](https://codecov.io/gh/RichardKnop/machinery)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Felldritch%2Fmachinery.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Felldritch%2Fmachinery?ref=badge_shield)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/RichardKnop/machinery)](https://goreportcard.com/report/github.com/RichardKnop/machinery)
 [![GolangCI](https://golangci.com/badges/github.com/RichardKnop/machinery.svg)](https://golangci.com)
@@ -996,3 +997,7 @@ If the environment variables are not exported, `make test` will only run unit te
 Donate BTC to my wallet if you find this project useful: `12iFVjQ5n3Qdmiai4Mp9EG93NSvDipyRKV`
 
 ![Donate BTC][4]
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Felldritch%2Fmachinery.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Felldritch%2Fmachinery?ref=badge_large)
